@@ -30,7 +30,7 @@
                 </div>
             </div>
         </nav>
-        <div class="container">
+        <div class="container" itemscope itemtype="http://schema.org/Person">
             <div class="jumbotron">
                 <div class="row">
                     <div class="col-sm-8">
@@ -183,10 +183,15 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-6" itemscope itemtype="http://schema.org/SoftwareApplication">
+                    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer" style="display: none">
+                        <span itemprop="price">0.00</span>
+                        <meta itemprop="priceCurrency" content="USD" />
+                    </div>
+                    <link itemprop="applicationCategory" href="http://schema.org/OtherApplication"/>
                     <div class="panel panel-default" id="magescan">
                         <div class="panel-heading">
-                            <h3 class="panel-title"><a href="http://magescan.steverobbins.com/">Mage Scan</a></h3>
+                            <h3 class="panel-title"><a href="http://magescan.steverobbins.com/"><span itemprop="name">Mage Scan</span></a></h3>
                         </div>
                         <div class="panel-body">
                             <p>
@@ -204,10 +209,15 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-6">
+                <div class="col-sm-6" itemscope itemtype="http://schema.org/SoftwareApplication">
+                    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer" style="display: none">
+                        <span itemprop="price">0.00</span>
+                        <meta itemprop="priceCurrency" content="USD" />
+                    </div>
+                    <link itemprop="applicationCategory" href="http://schema.org/OtherApplication"/>
                     <div class="panel panel-default" id="redisstatus">
                         <div class="panel-heading">
-                            <h3 class="panel-title"><a href="https://github.com/steverobbins/redis-status">Redis Status Page</a></h3>
+                            <h3 class="panel-title"><a href="https://github.com/steverobbins/redis-status"><span itemprop="name">Redis Status Page</span></a></h3>
                         </div>
                         <div class="panel-body">
                             <p>
@@ -376,16 +386,18 @@
             </div>
             <div class="row">
                 <div class="col-sm-4">
-                    <p><strong>Steve Robbins</strong>
-                    <p>Irvine, CA</p>
-                    <p><a href="mailto:steve@steverobbins.com">steve@steverobbins.com</a></p>
-                    <p><a href="http://steverobbins.com">steverobbins.com</a></p>
+                    <p><strong itemprop="name">Steve Robbins</strong>
+                    <p itemprop="jobTitle" style="display: none">Senior Magento Developer</p>
+                    <p itemprop="gender" style="display: none">Male</p>
+                    <p itemprop="workLocation">Irvine, CA</p>
+                    <p><a href="mailto:steve@steverobbins.com" itemprop="email">steve@steverobbins.com</a></p>
+                    <p><a href="http://steverobbins.com" itemprop="url">steverobbins.com</a></p>
                 </div>
                 <div class="col-sm-4">
-                    <p><a href="http://www.linkedin.com/in/steverobbins0">LinkedIn</a></p>
+                    <p><a href="http://www.linkedin.com/in/steverobbins0" itemprop="sameAs">LinkedIn</a></p>
                 </div>
                 <div class="col-sm-4">
-                    <p><a href="https://twitter.com/stevescommits">Twitter</a></p>
+                    <p><a href="https://twitter.com/stevescommits" itemprop="sameAs">Twitter</a></p>
                 </div>
             </div>
         </div>
