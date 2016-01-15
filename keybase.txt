@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/steverobbins
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://steverobbins.com
+  * I am steverobbins (https://keybase.io/steverobbins) on keybase.
+  * I have a public key with fingerprint F665 C5A4 EAC2 A9E1 FDF1  9766 34BF D94C 4F19 CE38
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012bd2d583271a93fb19fd751a2f786b465c378c91a1784c6c9189c014c0dd48e30a",
+            "fingerprint": "f665c5a4eac2a9e1fdf1976634bfd94c4f19ce38",
+            "host": "keybase.io",
+            "key_id": "34bfd94c4f19ce38",
+            "kid": "01012bd2d583271a93fb19fd751a2f786b465c378c91a1784c6c9189c014c0dd48e30a",
+            "uid": "b478613a129f758d3fa21ed9c30e9c19",
+            "username": "steverobbins"
+        },
+        "service": {
+            "hostname": "steverobbins.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1452831735,
+    "expire_in": 157680000,
+    "prev": "c6f69608edbeee9b34af856576cba6d8ec2140da26ea63e3a04d9fcdfb51f0df",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIhAnicrZJZSFVBGMevy7UUCsu36qWBIkr0zJmzXigpKKPtJUha6DZnFj2p51zv
+OVdtuRSGaEXQRkiERhtURLZRFsJNRYu2h1KLqMywDEKIhDKjmiP11mPzMvPN9/v/
+5/s+pmtKRign7dUcsKWz0O1Oe3C3JRFa1+R93QEsl24DkR2gnE1srIIyz4+W2xRE
+gAQlKFtUpqqBZB1iE3ELmpzqKsQy1w3NUjSVIN0gJsRQNxSiiZNhEgkqRKJUMRiS
+MMgH3HZKWTwWtx1f2HJNqFSsMExkbDLIKYemrmlIsTg1FaKIkDBkCGGZ6wUKUZyF
+PVZgu+JOBNGJ8v7B/+e6ExN2liIkEGEom1xXDYo4liGjJkESMwk0A9BjcQdXMkF7
+PqtmcdeybMcDyXwgMtU2YcFwg27+QRUQt1J4xOKu7xK3QmTLfD/mRQK1vy0W4DXM
+iv4xigoJFfMUCuHg2a4DIlCQxLcDZ6iosoGgjtR8wGpjdpxF7YBQdc2QxAreYdXC
+kmhcMzXJYNRijJkWUjA3VE1wxMIaNRiRoSJRLGsMa4ghLCnU5IRyS4VcohwErVU5
+LogookxcGjRllzrYT8QZSHakNmWG0nJCWeH04J+FcrJz//6+a1WTQx3n5GwTNfS/
+3JC5+hgqu9Oysv72h9zTVwa0qvr9s863vi1fO+6kho6AH81z+5buPjzvV/3cYrn1
+Z+pj+if0ubv6Y0/i6tGK2oMXB+tWRZfNqC9ZsDe3sXHw69nl9yoHdnZtWUS3hmvC
+z9NH+waWtPXcevmqZtLDC9Pf5S3wt8/u4Zkbix7tBmXDN7+9KUxffClj6MmR9we2
+73lTtGnvivm9DSm+eU1TcmFn0YmSjssnR9aGs9ta1r99sWp8NOW/bpsfmzKzuC45
+rl1qGClJ9jbef3ZmfM2Yffx9V0bhyLTrvVPbd32fbIefdobyTuWN2UX7HjvvDrWf
+6M/tG25uHGv60nAjq/3Ob8j5TxQ=
+=unqc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/steverobbins
+
+==================================================================
+
