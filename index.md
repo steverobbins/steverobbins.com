@@ -37,7 +37,7 @@ Other things I'm good at:
     * Lets Encrypt SSL certificate installation
     * mod_pagespeed setup and optimization
 * Magento
-  * Creator of [Mage Scan](http://magescan.com/)
+  * Creator of [Mage Scan](https://magescan.com/)
   * Creator of [Redis Manager](https://github.com/steverobbins/Magento-Redismanager)
   * Creator of [Mage Download CLI](https://github.com/steverobbins/magedownload-cli)
   * Upgrades and patch installation
@@ -56,7 +56,7 @@ Other things I'm good at:
 ## Social Media
 
 * [GitHub](https://github.com/steverobbins)
-* [Stack Overflow](http://stackexchange.com/users/398665/steve-robbins)
+* [Stack Overflow](https://stackexchange.com/users/398665/steve-robbins)
 * [Twitter](https://twitter.com/_steverobbins)
 
 ## Contact
