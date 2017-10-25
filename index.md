@@ -34,8 +34,8 @@ Other things I'm good at:
 * Linux
   * Ubuntu and RHEL stack setup
   * Nginx and Apache configuration
-    * mod_pagespeed
-      * Setup and optimization
+    * Lets Encrypt SSL certificate installation
+    * mod_pagespeed setup and optimization
 * Magento
   * Creator of [Mage Scan](http://magescan.com/)
   * Creator of [Redis Manager](https://github.com/steverobbins/Magento-Redismanager)
