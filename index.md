@@ -27,7 +27,7 @@ Other things I'm good at:
   * Elastic Search, Logstash, and Kibana installation
   * Network traffic, threat, and SEO analysis
 * Git
-  * Github and BitBucket repository setup
+  * GitHub and BitBucket repository setup
   * Access management
   * Pull request review and release tagging
   * Deployment with Capistrano
