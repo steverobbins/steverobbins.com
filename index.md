@@ -5,8 +5,6 @@ title: Consulting
 Over 5 years in the industry managing Linux/PHP websites and e-commerce stores.  I specialize in security, code review,
 auditing, performance, and infrastructure.
 
-If your website has been hacked or your page loads are slow, I can help.
-
 Other things I'm good at:
 
 * Amazon Web Services
