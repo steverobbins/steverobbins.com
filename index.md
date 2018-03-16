@@ -2,7 +2,7 @@
 title: Consulting
 ---
 
-Over 5 years in the industry managing Linux/PHP websites and e-commerce stores.  I specialize in security, code review,
+Coding and managing Linux, PHP, and e-commerce websites since 2012.  I specialize in security, code review,
 auditing, performance, and infrastructure.
 
 Other things I'm good at:
