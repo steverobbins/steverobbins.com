@@ -1,16 +1,45 @@
 ---
-title: Consulting
+title: DevOps Consulting
 ---
 
-Coding and managing Linux, PHP, and e-commerce websites since 2012.  I specialize in security, code review,
+Coding and managing Linux, Python, PHP, and e-commerce websites since 2012.  I specialize in security, code review,
 auditing, performance, and infrastructure.
 
 Other things I'm good at:
 
+* Languages and software
+  * PHP ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+    * Composer
+    * Magento
+      * Creator of [Mage Scan](https://magescan.com/) ([now retired](https://github.com/steverobbins/magescan))
+      * Creator of [Redis Manager](https://github.com/steverobbins/Magento-Redismanager)
+      * Creator of [Mage Download CLI](https://github.com/steverobbins/magedownload-cli)
+      * Upgrades and patch installation
+      * Threat quarantine and malware removal
+    * Laravel
+    * Symfony
+    * vBulletin
+    * Wordpress
+  * MySQL ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+  * Git ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+    * GitHub and BitBucket
+    * Setup, automations, CI
+  * Javascript ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+    * jQuery
+    * Vue.js
+  * Python ({{ 'now' | date: "%Y" | minus: 2017}}+ years)
+    * Django
+    * Creator of [Text METAR](https://textmetar.com/) ([now retired](https://github.com/TextMetar/textmetar.com/commit/30cde8fe83c30740d6d631e64110f61e11adddd9))
+  * NoSQL ({{ 'now' | date: "%Y" | minus: 2017}}+ years)
+  * Postgres ({{ 'now' | date: "%Y" | minus: 2018}}+ years)
 * Amazon Web Services
   * API Gateway
   * CloudFormation
-  * DynamoDB
+  * Elastic Search Service
+  * RDS
+    * Postgres
+    * MySQL
+    * DynamoDB
   * EC2
     * Auto Scaling
     * Load Balancing
@@ -24,38 +53,20 @@ Other things I'm good at:
 * ELK
   * Elastic Search, Logstash, and Kibana installation
   * Network traffic, threat, and SEO analysis
-* Git
-  * GitHub and BitBucket repository setup
-  * Access management
-  * Pull request review and release tagging
-  * Deployment with Capistrano
 * Linux
   * Ubuntu and RHEL stack setup
   * Nginx and Apache configuration
     * Lets Encrypt SSL certificate installation
     * mod_pagespeed setup and optimization
-* Magento
-  * Creator of [Mage Scan](https://magescan.com/)
-  * Creator of [Redis Manager](https://github.com/steverobbins/Magento-Redismanager)
-  * Creator of [Mage Download CLI](https://github.com/steverobbins/magedownload-cli)
-  * Upgrades and patch installation
-  * Threat quarantine and malware removal
 * New Relic
   * Setup
   * Code optimization
   * Uptime monitoring
-* Other PHP
-  * Composer
-  * Laravel
-  * Symfony
-  * vBulletin
-  * Wordpress
 
 ## Social Media
 
 * [GitHub](https://github.com/steverobbins)
 * [Stack Overflow](https://stackexchange.com/users/398665/steve-robbins)
-* [Twitter](https://twitter.com/_steverobbins)
 
 ## Contact
 
