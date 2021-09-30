@@ -32,6 +32,10 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDhULzXKVKB7i37pTWv+BsA8LN2YffP8E+a133GaRNC
 * Username: [steverobbins](https://github.com/steverobbins/)
 * Email: steve@steverobbins.com
 
+## Google (analytics, calendar, drive)
+
+* Email: steve@steverobbins.com
+
 ## Magento (Cloud)
 
 * Email: steve@steverobbins.com
