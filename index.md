@@ -32,10 +32,15 @@ Other things I'm good at:
     * Creator of [Text METAR](https://textmetar.com/) ([now retired](https://github.com/TextMetar/textmetar.com/commit/30cde8fe83c30740d6d631e64110f61e11adddd9))
   * NoSQL ({{ 'now' | date: "%Y" | minus: 2017}}+ years)
   * Postgres ({{ 'now' | date: "%Y" | minus: 2018}}+ years)
+* Shopify ({{ 'now' | date: "%Y" | minus: 2018}}+ years)
+  * App development
+    * REST and GraphQL Admin APIs
+    * Shipment and tracking integration
+    * Order and customer sync
 * Amazon Web Services
+  * Infrastructure as code with CloudFormation
   * API Gateway
-  * CloudFormation
-  * Elastic Search Service
+  * Elastic/OpenSearch
   * RDS
     * Postgres
     * MySQL
@@ -47,6 +52,7 @@ Other things I'm good at:
   * Lambda
     * Node.js
     * Python
+  * Cost management
 * Cloudflare
   * CDN setup
   * Threat mitigation
@@ -62,6 +68,12 @@ Other things I'm good at:
   * Setup
   * Code optimization
   * Uptime monitoring
+
+## Employment
+
+### [Bash Systems, LLC](https://bashsystems.com) (2016 - current)
+
+CEO and Janitor
 
 ## Social Media
 
