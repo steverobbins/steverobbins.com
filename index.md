@@ -2,13 +2,13 @@
 title: DevOps Consulting
 ---
 
-Coding and managing Linux, Python, PHP, and e-commerce websites since 2012.  I specialize in security, code review,
+Coding and managing Linux, Python, PHP, and e-commerce websites since 2010.  I specialize in security, code review,
 auditing, performance, and infrastructure.
 
 Other things I'm good at:
 
 * Languages and software
-  * PHP ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+  * PHP ({{ 'now' | date: "%Y" | minus: 2010}}+ years)
     * Composer
     * Magento
       * Creator of [Mage Scan](https://magescan.com/) ([now retired](https://github.com/steverobbins/magescan))
@@ -20,11 +20,11 @@ Other things I'm good at:
     * Symfony
     * vBulletin
     * Wordpress
-  * MySQL ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+  * MySQL ({{ 'now' | date: "%Y" | minus: 2010}}+ years)
   * Git ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
     * GitHub and BitBucket
     * Setup, automations, CI
-  * Javascript ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+  * Javascript ({{ 'now' | date: "%Y" | minus: 2010}}+ years)
     * jQuery
     * Vue.js
   * Python ({{ 'now' | date: "%Y" | minus: 2017}}+ years)
