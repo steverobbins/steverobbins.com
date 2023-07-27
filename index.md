@@ -1,5 +1,5 @@
 ---
-title: DevOps Consulting
+title: E-commerce Software Consulting
 ---
 
 Coding and managing Linux, Python, PHP, and e-commerce websites since 2010.  I specialize in security, code review,
@@ -11,7 +11,7 @@ Other things I'm good at:
   * PHP ({{ 'now' | date: "%Y" | minus: 2010}}+ years)
     * Composer
     * Magento
-      * Creator of [Mage Scan](https://magescan.com/) ([now retired](https://github.com/steverobbins/magescan))
+      * Creator of [Mage Scan](https://magescan.com/) ([retired](https://github.com/steverobbins/magescan))
       * Creator of [Redis Manager](https://github.com/steverobbins/Magento-Redismanager)
       * Creator of [Mage Download CLI](https://github.com/steverobbins/magedownload-cli)
       * Upgrades and patch installation
@@ -29,7 +29,7 @@ Other things I'm good at:
     * Vue.js
   * Python ({{ 'now' | date: "%Y" | minus: 2017}}+ years)
     * Django
-    * Creator of [Text METAR](https://textmetar.com/) ([now retired](https://github.com/TextMetar/textmetar.com/commit/30cde8fe83c30740d6d631e64110f61e11adddd9))
+    * Creator of [Text METAR](https://textmetar.com/) ([retired](https://github.com/TextMetar/textmetar.com/commit/30cde8fe83c30740d6d631e64110f61e11adddd9))
   * NoSQL ({{ 'now' | date: "%Y" | minus: 2017}}+ years)
   * Postgres ({{ 'now' | date: "%Y" | minus: 2018}}+ years)
 * Shopify ({{ 'now' | date: "%Y" | minus: 2018}}+ years)
@@ -75,14 +75,120 @@ Other things I'm good at:
 
 CEO and Janitor
 
-## Social Media
+## Projects
+
+### Stores
+
+{: .stores }
+* aajewelry.com
+* addapearl.com
+* addjoi.com
+* afepower.com
+* alightpromos.com
+* alpinestars.com
+* americasgold.com
+* amscope.com
+* athleticgreens.com
+* bavarianautosports.com
+* bdslaundry.com
+* beekeepersnaturals.com
+* bulknaturaloils.com
+* buywow.com
+* calderalab.com
+* chapon.jp
+* classicaccessories.com
+* classicshaving.com
+* clothworks.com
+* corroshop.com
+* daniellelaporte.com
+* deathwishcoffee.com
+* defineyourselfclothing.com
+* designpublic.com
+* doallsaws.com
+* downloadyouthministry.com
+* drhyman.com
+* drinkag1.com
+* drphil.com
+* electriccalifornia.com
+* ellison.com
+* flashingblinkylights.com
+* forgoodnessbakes.org
+* foursigmatic.com
+* frontiercoop.com
+* getfarmacy.com
+* goldstarfoods.com
+* goorin.com
+* grunt.com
+* hinterlandoutfitters.com
+* hourglasscosmetics.com
+* hyperkin.com
+* ippolita.com
+* johnnie-o.com
+* katesomerville.com
+* kissmyketo.com
+* kos.com
+* labeltexusa.com
+* liftsupportsdepot.com
+* livescribe.com
+* macho.com
+* mambaby.com
+* marijuanapackaging.com
+* maryruthorganics.com
+* mbamission.com
+* melindamaria.com
+* metallica.com
+* mezlan.com
+* mezlanwarehouse.com
+* mitylite.com
+* moccamaster.com
+* mykitsch.com
+* mylittlemascaraclub.com
+* optimumdata.com
+* paigelauren.com
+* parasolco.com
+* powertec.com
+* princelionheart.com
+* readysetfood.com
+* revupsports.com
+* rishi-tea.com
+* rothys.com
+* ryzesuperfoods.com
+* sizzix.com
+* smacne.co
+* strivectin.com
+* sunwarrior.com
+* tacori.com
+* thompsontee.com
+* tokidoki.it
+* truebotanicals.com
+* ursamajorvt.com
+* velvet-tees.com
+* vickimarsha.com
+* vimergy.com
+* volcom.com
+* volutone.com
+* wolfautomation.com
+* wuffes.com
+* zenbedrooms.com
+
+<div class="clear"></div>
+
+### SaaS
+
+* awesomecheckout.com - Enhanced Magento checkout
+* malibucommerce.com - Malibu Connect - Shopify and Microsoft Business Central (NAV) connector
+* upscribe.io - Shopify app for subscriptions
+* lojistic.com - Shipping cost savings
+
+## Socials
 
 * [GitHub](https://github.com/steverobbins)
+* [LinkedIn](https://www.linkedin.com/in/steve-robbins-2664b4280)
 * [Stack Overflow](https://stackexchange.com/users/398665/steve-robbins)
 
 ## Contact
 
-Reach me via [email](mailto:steve@steverobbins.com).
+Reach me via email: [steve@steverobbins.com](mailto:steve@steverobbins.com)
 
 <script src="/cdn-cgi/scripts/78d64697/cloudflare-static/email-decode.min.js"></script><script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

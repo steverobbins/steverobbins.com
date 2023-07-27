@@ -6,3 +6,16 @@
 #downloads {
     display: none;
 }
+
+.stores {
+    margin-left: -40px;
+    li {
+        float: left;
+        margin-left: 40px;
+    }
+}
+
+.clear {
+    clear: both;
+    margin-bottom: 20px;
+}
