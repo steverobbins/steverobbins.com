@@ -69,8 +69,6 @@ Other things I'm good at:
   * Code optimization
   * Uptime monitoring
 
-CEO and Janitor
-
 ## Projects
 
 ### Stores
