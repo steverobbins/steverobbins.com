@@ -69,10 +69,6 @@ Other things I'm good at:
   * Code optimization
   * Uptime monitoring
 
-## Employment
-
-### [Bash Systems, LLC](https://bashsystems.com) (2016 - current)
-
 CEO and Janitor
 
 ## Projects
