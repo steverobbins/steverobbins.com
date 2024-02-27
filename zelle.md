@@ -24,7 +24,7 @@ layout: blank
     <body>
         <p>Steven J Robbins</p>
         <p>stevether@gmail.com</p>
-        <img src="/assets/image/zelle.png" />
+        <img src="/assets/image/zelle.png" alt="Zelle QR Code" />
         <script src="/cdn-cgi/scripts/78d64697/cloudflare-static/email-decode.min.js"></script><script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

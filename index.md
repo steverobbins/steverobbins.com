@@ -184,6 +184,8 @@ Other things I'm good at:
 
 Reach me via email: [steve@steverobbins.com](mailto:steve@steverobbins.com)
 
+<img src="/assets/image/me3.png" id="me" alt="Profile picture of Steve Robbins" />
+
 <script src="/cdn-cgi/scripts/78d64697/cloudflare-static/email-decode.min.js"></script><script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
