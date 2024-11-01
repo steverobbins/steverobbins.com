@@ -10,13 +10,13 @@ Other things I'm good at:
 * Languages and software
   * PHP ({{ 'now' | date: "%Y" | minus: 2010}}+ years)
     * Composer
-    * Magento
+    * Magento ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
       * Creator of [Mage Scan](https://magescan.com/) ([retired](https://github.com/steverobbins/magescan))
       * Creator of [Redis Manager](https://github.com/steverobbins/Magento-Redismanager)
       * Creator of [Mage Download CLI](https://github.com/steverobbins/magedownload-cli)
       * Upgrades and patch installation
       * Threat quarantine and malware removal
-    * Laravel
+    * Laravel ({{ 'now' | date: "%Y" | minus: 2016}}+ years)
     * Symfony
     * vBulletin
     * Wordpress
@@ -37,7 +37,7 @@ Other things I'm good at:
     * REST and GraphQL Admin APIs
     * Shipment and tracking integration
     * Order and customer sync
-* Amazon Web Services
+* Amazon Web Services ({{ 'now' | date: "%Y" | minus: 2014}}+ years)
   * Infrastructure as code with CloudFormation
   * API Gateway
   * Elastic/OpenSearch
