@@ -8,36 +8,36 @@ auditing, performance, and infrastructure.
 Other things I'm good at:
 
 * Languages and software
-  * PHP ({{ 'now' | date: "%Y" | minus: 2010}}+ years)
+  * PHP (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2010}}+ years</span>)
     * Composer
-    * Magento ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+    * Magento (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2012}}+ years</span>)
       * Creator of [Mage Scan](https://magescan.com/) ([retired](https://github.com/steverobbins/magescan))
       * Creator of [Redis Manager](https://github.com/steverobbins/Magento-Redismanager)
       * Creator of [Mage Download CLI](https://github.com/steverobbins/magedownload-cli)
       * Upgrades and patch installation
       * Threat quarantine and malware removal
-    * Laravel ({{ 'now' | date: "%Y" | minus: 2016}}+ years)
+    * Laravel (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2016}}+ years</span>)
     * Symfony
     * vBulletin
     * Wordpress
-  * MySQL ({{ 'now' | date: "%Y" | minus: 2010}}+ years)
-  * Git ({{ 'now' | date: "%Y" | minus: 2012}}+ years)
+  * MySQL (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2010}}+ years</span>)
+  * Git (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2012}}+ years</span>)
     * GitHub and BitBucket
     * Setup, automations, CI
-  * Javascript ({{ 'now' | date: "%Y" | minus: 2010}}+ years)
+  * Javascript (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2010}}+ years</span>)
     * jQuery
     * Vue.js
-  * Python ({{ 'now' | date: "%Y" | minus: 2017}}+ years)
+  * Python (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2017}}+ years</span>)
     * Django
     * Creator of [Text METAR](https://textmetar.com/) ([retired](https://github.com/TextMetar/textmetar.com/commit/30cde8fe83c30740d6d631e64110f61e11adddd9))
-  * NoSQL ({{ 'now' | date: "%Y" | minus: 2017}}+ years)
-  * Postgres ({{ 'now' | date: "%Y" | minus: 2018}}+ years)
-* Shopify ({{ 'now' | date: "%Y" | minus: 2018}}+ years)
+  * NoSQL (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2017}}+ years</span>)
+  * Postgres (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2018}}+ years</span>)
+* Shopify (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2018}}+ years</span>)
   * App development
     * REST and GraphQL Admin APIs
     * Shipment and tracking integration
     * Order and customer sync
-* Amazon Web Services ({{ 'now' | date: "%Y" | minus: 2014}}+ years)
+* Amazon Web Services (<span class="highlight">{{ 'now' | date: "%Y" | minus: 2014}}+ years</span>)
   * Infrastructure as code with CloudFormation
   * API Gateway
   * Elastic/OpenSearch
